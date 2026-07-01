@@ -1,0 +1,14 @@
+# Build output
+build/
+
+# Downloaded model files (too large for GitHub)
+models/
+
+# llama.cpp (users download this themselves per README instructions)
+llama.cpp/
+
+# System files
+.DS_Store
+*.o
+*.so
+*.a
