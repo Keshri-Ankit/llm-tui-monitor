@@ -74,7 +74,7 @@ sudo apt install -y build-essential cmake git curl wget
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-tui-monitor.git
+git clone https://github.com/Keshri-Ankit/llm-tui-monitor.git
 cd llm-tui-monitor
 ```
 
