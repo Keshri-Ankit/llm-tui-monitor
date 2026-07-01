@@ -170,5 +170,5 @@ This is entirely non-invasive — zero modifications to llama.cpp source code.
 
 ## Team
 
-Built as part of GDSC IIT Roorkee project selection.
-Team size: 2 members
+Built as part of GDSC IIT Roorkee project.
+Team size: 2 members (Ankit Kumar and Nagesh Desai)
